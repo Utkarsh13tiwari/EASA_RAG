@@ -1,0 +1,9 @@
+{
+  "keyword": true,
+  "scoring": {
+    "method": "bm25",
+    "terms": true,
+    "normalize": true
+  },
+  "offset": 1265
+}
